@@ -20,7 +20,7 @@
     
     CCNode *_bush1;
     CCNode *_bush2;
-    NSARray *_bushes;
+    NSArray *_bushes;
     
     NSTimeInterval _sinceTouch;
     
